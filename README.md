@@ -6,6 +6,19 @@ Platform:Google Colab\
 ## Overview
 This project aims to detect fraudulent transactions in the SecureSwipe dataset. The dataset contains both fraudulent and successful transactions, and the goal is to build a model that can accurately classify transactions as fraudulent or successful.
 
+## Requirements
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [NumPy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [scikit-learn](https://scikit-learn.org/)
+- [scipy](https://www.scipy.org/)
+- [imbalanced-learn](https://imbalanced-learn.org/)
+- [tabulate](https://pypi.org/project/tabulate/)
+- [plotly](https://plotly.com/)
+
 ## Project Structure
 - `data/`: Contains the dataset used for training and testing.
 - `src/`: Contains the source code for data preprocessing, model training, and evaluation.
